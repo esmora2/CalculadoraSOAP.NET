@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\SOAPCalculator\SOAPCalculator\bin\Debug\SOAPCalculator.exe.config
+C:\Users\USER\source\repos\SOAPCalculator\SOAPCalculator\bin\Debug\SOAPCalculator.exe
+C:\Users\USER\source\repos\SOAPCalculator\SOAPCalculator\bin\Debug\SOAPCalculator.pdb
+C:\Users\USER\source\repos\SOAPCalculator\SOAPCalculator\bin\Debug\System.ServiceModel.Duplex.dll
+C:\Users\USER\source\repos\SOAPCalculator\SOAPCalculator\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\USER\source\repos\SOAPCalculator\SOAPCalculator\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\USER\source\repos\SOAPCalculator\SOAPCalculator\bin\Debug\System.ServiceModel.Security.dll
+C:\Users\USER\source\repos\SOAPCalculator\SOAPCalculator\bin\Debug\System.ServiceModel.Duplex.pdb
+C:\Users\USER\source\repos\SOAPCalculator\SOAPCalculator\bin\Debug\System.ServiceModel.Http.pdb
+C:\Users\USER\source\repos\SOAPCalculator\SOAPCalculator\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\USER\source\repos\SOAPCalculator\SOAPCalculator\bin\Debug\System.ServiceModel.Security.pdb
+C:\Users\USER\source\repos\SOAPCalculator\SOAPCalculator\obj\Debug\SOAPCalculator.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\SOAPCalculator\SOAPCalculator\obj\Debug\SOAPCalculator.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\SOAPCalculator\SOAPCalculator\obj\Debug\SOAPCalc.F3B13DC7.Up2Date
+C:\Users\USER\source\repos\SOAPCalculator\SOAPCalculator\obj\Debug\SOAPCalculator.exe
+C:\Users\USER\source\repos\SOAPCalculator\SOAPCalculator\obj\Debug\SOAPCalculator.pdb

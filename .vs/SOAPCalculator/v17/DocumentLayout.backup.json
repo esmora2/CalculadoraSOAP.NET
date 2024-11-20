@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\SOAPCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71CA27BE-D65C-4AEE-99CC-142174579CF5}|SOAPCalculator\\SOAPCalculator.csproj|c:\\users\\user\\source\\repos\\soapcalculator\\soapcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CA27BE-D65C-4AEE-99CC-142174579CF5}|SOAPCalculator\\SOAPCalculator.csproj|solutionrelative:soapcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SOAPCalculator\\SOAPCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "SOAPCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SOAPCalculator\\SOAPCalculator\\Program.cs",
+              "RelativeToolTip": "SOAPCalculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:05:06.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
